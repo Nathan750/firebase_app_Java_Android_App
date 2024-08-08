@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875729717962",
+    "project_id": "fire-e0b93",
+    "storage_bucket": "fire-e0b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875729717962:android:fab61aa798dc03a7db4233",
+        "android_client_info": {
+          "package_name": "com.nathan.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqUbPdTai2wf_MerLxd3f1rW0ey-R59jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
